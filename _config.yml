@@ -1,11 +1,11 @@
 # Site settings
 author: James Benjamin
-title: 
+title: My Programming Journey
 header-img: img/home-bg.png
 email: james.abenj@gmail.com
 copyright_name: James Benjamin
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Thoughts on development. 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jamesabenj
